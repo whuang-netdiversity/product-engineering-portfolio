@@ -156,7 +156,7 @@ Participants complete challenges and unlock prize opportunities through structur
 
 ## Pulse Pal
 
-**Voice-First Blood Pressure Logging**
+**Voice-Aware Blood Pressure Logging**
 
 Pulse Pal is a health application designed to reduce friction in blood pressure tracking through simplified interaction patterns.
 
@@ -176,7 +176,7 @@ The design goal is **fast, low-friction logging** while maintaining structured h
 - native HealthKit integration
 - modular service layer for health synchronization
 - intent-driven event orchestration
-- voice-first dictation logging
+- voice-aware dictation logging
 
 ### Platform Integration
 
@@ -213,7 +213,7 @@ The application combines multiple health signals into a single daily system.
 ### Platform Goals
 
 - Integration with Health Connect/HealthKit
-- Voice-first logging
+- Voice-aware logging
 
 ---
 
